@@ -7,6 +7,6 @@ public class Director extends Person {
     }
 
     public void printInfoAboutDirector() {
-        System.out.println("Name: " + getName() + ", Surname: " + getSurname());
+        System.out.println("Name: " + name + ", Surname: " + surname);
     }
 }
